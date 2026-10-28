@@ -3,7 +3,7 @@
 Automated measurements of axel loading and output them on the screen of your mobile device
 
 # Updates:
-V1.1.0:
+\nV1.1.0:
 	- changed data output view. Now windows with pressure and weight dissapears when data is "---"
 	- changed total weight display conditions. Now total weight is calculated and showed when there are all of weights and device name consists 'L' char at the end.
 V1.2.0:
