@@ -4,7 +4,7 @@ Automated measurements of axel loading and output them on the screen of your mob
 
 # Updates:
 <br>V1.1.0:<br>
-	- changed data output view. Now windows with pressure and weight dissapears when data is "---"<br>
+&nbsp	- changed data output view. Now windows with pressure and weight dissapears when data is "---"<br>
 	- changed total weight display conditions. Now total weight is calculated and showed when there are all of weights and device name consists 'L' char at the end.
 <br>V1.2.0:<br>
 	- added support for 3-axis trailers
